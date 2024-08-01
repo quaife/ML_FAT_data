@@ -1,0 +1,5 @@
+forward_problem/lines_angles_Sec800_1500_test_orig.mat filter=lfs diff=lfs merge=lfs -text
+forward_problem/lines_images_Sec800_1500_test_re.mat filter=lfs diff=lfs merge=lfs -text
+forward_problem/testSetOUT_lines_angles_newloss_FCUNet2dp_2ep4.mat filter=lfs diff=lfs merge=lfs -text
+forward_problem/testSetOUT_lines_images_newloss_CNNcm8_5ep4_ep200.mat filter=lfs diff=lfs merge=lfs -text
+forward_problem/testSetOUT_lines_images_newloss_UNet3DP_5ep5_ep200.mat filter=lfs diff=lfs merge=lfs -text
